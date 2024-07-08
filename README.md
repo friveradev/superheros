@@ -7,6 +7,7 @@
   * SPRING_DATASOURCE_PASSWORD=password
 * The API was built using MySQL 8 database.
 * It should be compiled with Maven (mvn clean package) and then execute the .jar file
+* Run the application on port 8080
 
 # Desafío de despliegue
 ## Datos a tener en cuenta:
@@ -17,6 +18,7 @@
   * SPRING_DATASOURCE_PASSWORD=password
 * La API se creó con base de datos MySQL 8
 * Se debe compilar con maven (mvn clean package) y luego ejecutar el .jar
+* Ejecutar aplicación en puerto 8080
 
 ---
 
