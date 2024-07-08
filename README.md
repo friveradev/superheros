@@ -18,6 +18,8 @@
 * La API se creó con base de datos MySQL 8
 * Se debe compilar con maven (mvn clean package) y luego ejecutar el .jar
 
+---
+
 # Superheroes API
 ## Description:
 This API provides a way to manage a list of superheroes with their names, civil names, affiliations, abilities, and origin. It offers endpoints to retrieve all superheroes, search by name, retrieve a superhero by id, create a new superhero, update a superhero, and delete a superhero.
